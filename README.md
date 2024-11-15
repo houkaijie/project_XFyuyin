@@ -1,6 +1,7 @@
 ## 项目 智能语音识别小平板
 
 文件结构：
+```
 C:.
 ├─clientWav
 ├─linux_aitalk
@@ -225,7 +226,8 @@ C:.
         │  ├─text
         │  └─video
         └─src
-        
+```
+
 ### linux_aitalk:
 运行（在 linux_aitalk/sample/asr_offline/下）64bit_make.sh
 
